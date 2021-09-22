@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AoiSoraShop.Data.Enum;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
